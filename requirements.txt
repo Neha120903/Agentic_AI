@@ -16,3 +16,4 @@ langchain_huggingface
 faiss-cpu  #for gpu we can install that particular
 chromadb
 langchain_chroma 
+langchain-openai
