@@ -1,0 +1,19 @@
+# .gitignore
+myenv/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
+*.log
+*.sqlite3
+*.db
+*.h5
+*.csv
+*.pkl
+*.json
+*.joblib
+*.gz
+*.zip
+*.tar.gz
+*.egg-info/
