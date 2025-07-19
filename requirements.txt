@@ -17,3 +17,5 @@ faiss-cpu  #for gpu we can install that particular
 chromadb
 langchain_chroma 
 langchain-openai
+streamlit
+langchain_groq
